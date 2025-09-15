@@ -1,7 +1,6 @@
 ### Hi there 👋 I'm Lance Parungao, a Computer Engineer/Developer! 
 
-- 👨‍💻 I am a computer engineer with academic experience in web, mobile, and software development.
-- 🚀 My expertise lies in harnessing the power of the Flutter framework for creating exceptional websites and applications.
+- 👨‍💻 I am a computer engineer with academic and freelance experience in Flutter development, and professional experience in Java.
 - 🌐 Throughout my academic journey and internships, I've successfully developed various websites and applications.
 - 💼 I'm offering efficient remote development services.
 - 📧 For inquiries and collaboration, feel free to drop me a message at parungaolancephilip@gmail.com.
